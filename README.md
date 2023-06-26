@@ -2,19 +2,32 @@
 
 <table>
 <tr>
-<td><img src="https://user-images.githubusercontent.com/78094729/193206065-6e92d58e-2555-4d33-a285-c4c9bc3e2c5b.jpg" width="400"></td>
-<td><img src="https://user-images.githubusercontent.com/78094729/193206072-558b2e9b-673b-47dc-a9dd-c60c9b20d0f5.jpg" width="400"></td>
-<td><img src="https://user-images.githubusercontent.com/78094729/193206079-8cedefe0-f72d-495d-a193-2e54697ef7a8.jpg" width="400"/></td>
-<td><img src="https://user-images.githubusercontent.com/78094729/193206081-03fe95fb-db59-42c0-890f-f6e8ba5fe863.jpg" width="400"/></td>
+
+<td><img src="https://github.com/nguyentung158/Tiktok-Clone/assets/78079771/4ee7973c-fe6d-4e75-9074-ed3ad5b0e923" width="400"></td>
+<td><img src="https://github.com/nguyentung158/Tiktok-Clone/assets/78079771/3649f412-fdeb-414f-8e8f-c1ec560ac165" width="400"></td>
+<td><img src="https://github.com/nguyentung158/Tiktok-Clone/assets/78079771/abd15399-8261-4746-af34-297b04e7343c" width="400"></td>
+<td><img src="https://github.com/nguyentung158/Tiktok-Clone/assets/78079771/3c40d7d4-1b03-4ff1-9c71-5d1ceed07aa1" width="400"></td>
 </tr>
 <tr>
-<td><img src="https://user-images.githubusercontent.com/78094729/193206087-d1084702-ff5b-4dd5-b515-63cfdfb25ba3.jpg" width="400"/></td>
-<td><img src="https://user-images.githubusercontent.com/78094729/193206098-4e7b9efb-0c5c-4e1a-83ca-d326024a9735.jpg" width="400"/></td>
-<td><img src="https://user-images.githubusercontent.com/78094729/193206106-182ece53-7969-49c1-9a1e-10acfb35c741.jpg" width="400"/></td>
+<td><img src="https://github.com/nguyentung158/Tiktok-Clone/assets/78079771/7fbc9ac0-24df-4333-90f2-400202c9993e" width="400"></td>
+<td><img src="https://github.com/nguyentung158/Tiktok-Clone/assets/78079771/1889500c-cf6f-467c-85cd-f3ca1cf85430" width="400"></td>
+<td><img src="https://github.com/nguyentung158/Tiktok-Clone/assets/78079771/0e49b836-13bb-4559-bcc0-5491e82baf3d" width="400"></td>
+<td><img src="https://github.com/nguyentung158/Tiktok-Clone/assets/78079771/00624d25-e404-4266-b83c-4c7e844a5fbf" width="400"></td>
+</tr>
+<tr>
+<td><img src="https://github.com/nguyentung158/Tiktok-Clone/assets/78079771/1e145853-6838-4641-a9cb-11470d9ede55" width="400"></td>
+<td><img src="https://github.com/nguyentung158/Tiktok-Clone/assets/78079771/19cfbd71-92c0-4961-b706-a9414fe4f950" width="400"></td>
 </tr>
 </table>
 
 # Features:
-
++ Register, login
++ Forgot password, change password
++ Upload videos
++ Surfing videos like the original Tiktok app
++ Leave a comment, comment, like comment in the comment section
++ Search for users
++ Follow, unfollow users
++ Modify avatar, personal information
 
 
